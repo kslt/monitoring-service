@@ -30,6 +30,6 @@ By make an issue or a pull request or just contact me with tips or feedback. :)
 Webpage:   www.kswebb.se<br>
 E-mail:    kasper@kswebb.se
 
-<h2>VERSION HISTORY</h2>
+<h2>Version history</h2>
 V1.0 (2026-03-28):
 * Creation of project.
