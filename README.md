@@ -9,7 +9,7 @@ A had a big help from Google Gemini in the making of this project.
 <h2>🛠️ Functions</h2>
     ✅ -
 
-<h2>🚀 INSTALLATION AND ⚙️ CONFIG:</h2>
+<h2>🚀 Installation and ⚙️ config:</h2>
 Follow these steps to install the application.
 
 1. Get the repo from GitHub to a folder in your server/system.
