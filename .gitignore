@@ -1,0 +1,11 @@
+# Ignorera node_modules
+node_modules/
+
+# Ignorera loggfiler
+*.log
+
+# Ignorera .env-filen
+.env
+
+# Ignorera byggfiler
+/dist
